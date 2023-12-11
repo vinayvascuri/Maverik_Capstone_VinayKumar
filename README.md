@@ -1,4 +1,4 @@
-## Maverik_Capstone_VinayKumar
+## Capstone_Maverik_VinayKumar
 ![cool-picture](https://github.com/vinayvascuri/Maverik_Capstone_VinayKumar/assets/121827398/f25b1192-b731-4bce-a6a7-e985ffaa578c)
 
 ## Introduction:
