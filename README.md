@@ -53,10 +53,10 @@ While working on the project, our group encountered several challenges that requ
 ### 1.Data Quality and Preprocessing: 
 Ensuring the quality of the time series and qualitative datasets posed challenges, with the need for thorough data cleaning and preprocessing to handle the data of 37 stores
 
-### Complexity of Time Series Patterns:
+### 2.Complexity of Time Series Patterns:
 Understanding and modeling the complex patterns within the time series data, especially considering seasonality variations, required a thoughtful approach and collaboration to choose appropriate forecasting techniques.
 
-### Model Selection and Tuning: 
+### 3.Model Selection and Tuning: 
 Selecting and fine-tuning forecasting models, such as XGBoost,ARIMA,SARIMA,Random Forest and Prophet, required iterative experimentation to achieve optimal performance, considering the uniqueness of Maverik's sales data. 
 
 ## What you learned in the project: 
