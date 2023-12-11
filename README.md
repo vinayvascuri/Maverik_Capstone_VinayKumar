@@ -59,6 +59,8 @@ Average Sales of both the stores 22855, 22120:
 #### Unleaded Sales ---  $3,335,149.28         	
 
 #### Diesel Sales  --- $979,496.56
+
+Above Unleaded and Diesel sales were calculated at the below values:
      	          	          	              
 Unleaded - $3.14/gal
 
