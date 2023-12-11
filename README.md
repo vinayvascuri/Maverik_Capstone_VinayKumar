@@ -1,7 +1,6 @@
 ## Maverik_Capstone_VinayKumar
 
-![OIP (1)](https://www.glassdoor.com/Photos/-Office-Photos-IMG2815690.htm)
-
+![OIP (1)](https://media.glassdoor.com/l/92/ca/4c/05/cool-picture.jpg)
 ## Introduction:
 
 Maverik plans to open/build 30 new stores each year to continue with the high growth it is currently experiencing. Maverik must have accurate first-year sales forecasts for the new stores it plans to open, which will help it build the financial plan more effectively.
