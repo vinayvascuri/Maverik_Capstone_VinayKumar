@@ -50,11 +50,18 @@ The New Ideal Store should have the following features but not limited to :
 5. Median income of 1-mile radius population > $40,000
 6. Population within 1-mile radius > 7,500 people
 
-###  Inside Sales	         Food Sales             Unleaded Sales             	Diesel Sales
-     $867,003.87	          $214,006.12	           $3,335,149.28	              $979,496.56
+###  Inside Sales	-- $867,003.87      
 
+### Food Sales  ---$214,006.12            
+
+### Unleaded Sales ---  $3,335,149.28         	
+
+### Diesel Sales  --- $979,496.56
+     	          	          	              
 Unleaded - $3.14/gal
+
 Diesel - $4.1/gal
+
 Sum of all 4 Target variables - $5,395,655.83
 
 
