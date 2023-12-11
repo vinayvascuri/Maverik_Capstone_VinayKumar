@@ -81,7 +81,7 @@ Recognizing the business implications of our work, including the optimization of
 ### 6. Presentation and Communication Skills: 
 Preparing and presenting results to stakeholders improved our ability to convey technical concepts in a clear and concise manner, fostering effective communication with both technical and non-technical audiences.
 
-## Overall, the project provided a holistic learning experience that transcended technical aspects, emphasizing the importance of collaboration, adaptability, and a business-oriented mindset in the field of data analytics.
+### Overall, the project provided a holistic learning experience that transcended technical aspects, emphasizing the importance of collaboration, adaptability, and a business-oriented mindset in the field of data analytics.
 
 
 
