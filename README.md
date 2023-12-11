@@ -50,6 +50,8 @@ The New Ideal Store should have the following features but not limited to :
 5. Median income of 1-mile radius population > $40,000
 6. Population within 1-mile radius > 7,500 people
 
+Average Sales of both the stores 22855, 22120:
+
 ####  Inside Sales	-- $867,003.87      
 
 #### Food Sales  ---$214,006.12            
