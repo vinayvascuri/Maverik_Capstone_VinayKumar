@@ -19,15 +19,18 @@ The proposed solution from our group involves the development and implementation
 
 ## Your contribution to the project:
 
-### Exploratory Data Analysis (EDA):
-Conducted EDA on Time Series, Qualitative, and Merged datasets.
-Analyzed descriptive statistics of Time Series dataset, including Average Fuel & Non-Fuel sales.
-Explored correlation matrix of target variables with other features.
-Engaged in feature engineering to enhance model performance.
+1.Conducted EDA on Time Series, Qualitative, and Merged datasets.
 
-### Model Development:
-Created ARIMA and Prophet models for time series forecasting.
-Presented results of the Prophet model, supported by insightful visualizations.
-Contributed to the Introduction, framing pertinent questions, and summarizing key results in the report.
+2.Analyzed descriptive statistics of Time Series dataset, including Average Fuel & Non-Fuel sales.
+
+3.Explored correlation matrix of target variables with other features.
+
+4.Engaged in feature engineering to enhance model performance.
+
+5.Created ARIMA and Prophet models for time series forecasting.
+
+6.Presented results of the Prophet model, supported by insightful visualizations.
+
+7.Contributed to the Introduction, framing pertinent questions, and summarizing key results in the report.
 
 
