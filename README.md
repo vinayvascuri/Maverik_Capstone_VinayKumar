@@ -9,8 +9,11 @@ The project's focus includes the comprehensive development of a time series fore
 ## Project Objectives:
 
 1.Provide accurate first-year sales forecasts for new stores.
+
 2.Support well-informed financial decision-making.
+
 3.Having accurate forecasts will help put together financial plan more effectively and may help Maverik create more accurate initial ROI documents.
+
 4.Ensure the model's capability to update forecasts based on new actual data for the site, ensuring a continuous improvement in forecast accuracy.
 
 ## Group's solution to the business problem:
